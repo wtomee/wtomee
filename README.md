@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtomee
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, React, Python
+- 👀 interested in programming
+- 🌱 currently learning Java, Python, JavaScript, React 
 - 📫 wurth.tamas@gmail.com
 
 <!---
