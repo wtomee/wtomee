@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtomee
 - 👀 interested in programming
-- 🌱 currently learning Java
+- 🌱 currently learning Java and Kotlin
 - 📫 wurth.tamas@gmail.com
 
 <!---
